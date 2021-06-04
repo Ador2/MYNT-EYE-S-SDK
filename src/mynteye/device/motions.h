@@ -15,6 +15,9 @@
 #define MYNTEYE_DEVICE_MOTIONS_H_
 #pragma once
 
+#define _USE_MATH_DEFINES
+#include <cmath>
+
 #include <memory>
 #include <mutex>
 #include <vector>
