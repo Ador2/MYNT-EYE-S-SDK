@@ -9,7 +9,7 @@ MYNT® EYE S SDK is a cross-platform library for MYNT® EYE Standard cameras.
 The following platforms have been tested:
 
 * Windows 10
-* Ubuntu 16.04 / 14.04
+* Ubuntu 16.04 / 14.04 (seems to work on 18.04 too)
 * Jetson TX2
 
 Please follow the guide doc to install the SDK on different platforms.
